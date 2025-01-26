@@ -1,0 +1,7 @@
+.boton-carrito.active .numerito{
+    margin-top: 2rem;
+    background-color: var(--clr-main);
+    color: var(--clr-white);
+
+
+}
